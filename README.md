@@ -1,6 +1,5 @@
 # Shaikh-Basim
 ### Hi there 👋, My name is Shaikh Basim
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a Biomedical Engineering student in my 2nd year. 
 
