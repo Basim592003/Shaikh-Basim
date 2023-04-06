@@ -3,7 +3,7 @@
 
 I am a Biomedical Engineering student in my 2nd year. 
 
-Skills: C#/Matlab/R/Phyton/Fusion 360/Latex
+Skills: C#/C# WinForms/Matlab/R/Phyton/Fusion 360/Latex/autoCAD/JavaScript
 
 - 🔭 I’m currently working on skin segmentation, my cinema booking app, movie recommendation using machine learning 
 - 🌱 I’m currently learning Matlab, machine learning, numerical methods, biomedical signal processing and more 
